@@ -45,8 +45,9 @@ stroke="block" fill="none"/>
       <li><a href="#">t</a>echnical</li>
       <li><a href="#">o</a>riginal</li>
       <li><a href="#">u</a>ser</li>
-      <li><a href="#">!</a></li>
-    </ul>
+          </ul>
   </nav>
 </footer>
 </html>
+
+
