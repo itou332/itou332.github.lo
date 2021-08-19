@@ -41,10 +41,10 @@ stroke="block" fill="none"/>
 <footer>
 <nav id="global-nav">
     <ul>
-      <li><a href="#">i</a><p>mage</p></li>
-      <li><a href="#">t</a><p>echnical</p></li>
-      <li><a href="#">o</a><p>riginal</p></li>
-      <li><a href="#">u</a><p>ser</p></li>
+      <li><a href="#">i</a>mage</li>
+      <li><a href="#">t</a>echnical</li>
+      <li><a href="#">o</a>riginal</li>
+      <li><a href="#">u</a>ser</li>
       <li><a href="#">!</a></li>
     </ul>
   </nav>
