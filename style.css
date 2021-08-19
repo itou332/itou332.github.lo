@@ -22,8 +22,8 @@ text {
 
 ul {
   position: fixed;
-  width: 200%;
-  top: 110;
+  width: 150%;
+  top: 40;
   z-index: 10000;
 }
 
