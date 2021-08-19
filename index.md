@@ -1,5 +1,16 @@
 <html lang="ja">
 <head>
+<header>
+  <nav id="global-nav">
+    <ul>
+      <li><a href="#">メニュー1</a></li>
+      <li><a href="#">メニュー2</a></li>
+      <li><a href="#">メニュー3</a></li>
+      <li><a href="#">メニュー4</a></li>
+      <li><a href="#">メニュー5</a></li>
+    </ul>
+  </nav>
+</header>
   <meta charset="UTF-8">
   <title>HTML </title>
 <path id="textpath"
