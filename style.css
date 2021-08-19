@@ -19,3 +19,10 @@ text {
     fill:#333;
   }
 }
+
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10000;
+}
