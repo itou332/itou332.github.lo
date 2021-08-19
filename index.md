@@ -12,12 +12,6 @@
     </ul>
   </nav>
 </header>
-header {
-  position: fixed;
-  width: 100%;
-  top: 0;
-  z-index: 10000;
-}
   <meta charset="UTF-8">
   <title>HTML </title>
 <path id="textpath"
