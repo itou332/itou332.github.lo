@@ -41,14 +41,12 @@ stroke="block" fill="none"/>
 <footer>
 <nav id="global-nav">
     <ul>
-      <li><a href="#">i</a></li>
-      <li><a href="#">t</a></li>
-      <li><a href="#">o</a></li>
-      <li><a href="#">u</a></li>
-      <li><a href="#">!</a></li>
+      <li><a href="#">i</a>mage</li>
+      <li><a href="#">t</a>echnical</li>
+      <li><a href="#">o</a>riginal</li>
+      <li><a href="#">u</a>ser</li>
+      <li><a href="#">!</a>d=(^o^)=b</li>
     </ul>
   </nav>
 </footer>
 </html>
-
-
