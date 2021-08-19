@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +6,10 @@
   <script type="text/javascript" src="sample.js"></script>
 </head>
 <body>
-  <div class="header">Header領域</div>
+  <div class="header"><svg width="100" height="100">
+    <path d="M50 0 L0 100 L100 100 Z" style="fill:#999;stroke:black;stroke-width:3"></path>
+</svg>
+</div>
   <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
