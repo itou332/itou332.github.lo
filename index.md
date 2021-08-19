@@ -2,6 +2,13 @@
 <head>
   <meta charset="UTF-8">
   <title>HTML </title>
+<path id="textpath"
+d="m 20 60 c 40,20 260,20 280,60"
+stroke="block" fill="none"/>
+<textpath xlink:href="#textpath">
+こんなんでどうですか？
+</textpath>
+</text>
   <link rel="stylesheet" href="style.css">
   <script type="text/javascript" src="sample.js"></script>
 </head>
