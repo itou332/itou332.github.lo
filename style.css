@@ -1,29 +1,7 @@
-text {
-  stroke: #333;
-  stroke-width: 0.5px;
-  fill: #333;
-  stroke-dasharray: 600;
-  stroke-dashoffset: 600;
-  animation: textAnime 5s linear;
-}
-@keyframes textAnime {
-  0% {
-    stroke-dashoffset: 600;
-    fill:transparent;
-  }
-  50% {
-    fill:transparent;
-  }
-  100% {
-    stroke-dashoffset: 0;
-    fill:#333;
-  }
-}
-
 ul {
   position: fixed;
   width: 350%;
-  top: 310;
+  top:0;
   z-index: 100000;
 }
 
