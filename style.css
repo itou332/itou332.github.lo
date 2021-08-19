@@ -23,7 +23,7 @@ text {
 ul {
   position: fixed;
   width: 200%;
-  top: 0;
+  top: 10;
   z-index: 10000;
 }
 
