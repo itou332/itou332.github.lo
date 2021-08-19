@@ -5,6 +5,7 @@
 <path id="textpath"
 d="m 20 60 c 40,20 260,20 280,60"
 stroke="block" fill="none"/>
+<text font-size="20" dy="#textpath">
 <textpath xlink:href="#textpath">
 こんなんでどうですか？
 </textpath>
