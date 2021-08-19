@@ -21,8 +21,7 @@ stroke="block" fill="none"/>
   <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
-    <img src="img/sample1.jpg">
-  </div>
+      </div>
   <div class="footer">
     <span>Footer領域</span>
     <a href="https://itou332.github.io/">リンク</a>
