@@ -1,5 +1,6 @@
 <html lang="ja">
 <head>
+<link href="style.css" rel="style.css">
 <header>
   <nav id="global-nav">
     <ul>
@@ -39,3 +40,5 @@ stroke="block" fill="none"/>
   </div>
 </body>
 </html>
+
+
