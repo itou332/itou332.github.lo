@@ -36,8 +36,7 @@ stroke="block" fill="none"/>
       </div>
   <div class="footer">
     <span>Footer領域</span>
-    <a href="https://itou332.github.io/">リンク</a>
-  </div>
+      </div>
 </body>
 </html>
 
