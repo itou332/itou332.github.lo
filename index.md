@@ -41,11 +41,11 @@ stroke="block" fill="none"/>
 <footer>
 <nav id="global-nav">
     <ul>
-      <li><a href="#">メニュー1</a></li>
-      <li><a href="#">メニュー2</a></li>
-      <li><a href="#">メニュー3</a></li>
-      <li><a href="#">メニュー4</a></li>
-      <li><a href="#">メニュー5</a></li>
+      <li><a href="#">i</a></li>
+      <li><a href="#">t</a></li>
+      <li><a href="#">o</a></li>
+      <li><a href="#">u</a></li>
+      <li><a href="#">!</a></li>
     </ul>
   </nav>
 </footer>
