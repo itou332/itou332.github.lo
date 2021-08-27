@@ -1,7 +1,6 @@
 <html lang="ja">
 <head>
    <link rel="stylesheet" href="style.css">
-  <script type="text/javascript" src="sen.js"></script>
 <header>
   <nav id="global-nav">
     <ul>
@@ -23,6 +22,7 @@
     <path d="M50 0 L0 100 L100 100 Z" style="fill:#999;stroke:black;stroke-width:3"></path>
 </svg>
 </div>
+    <script type="text/javascript" src="sen.js"></script>
   <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
