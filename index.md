@@ -18,10 +18,7 @@
   <script type="text/javascript" src="sample.js"></script>
 </head>
 <body>
-  <div class="header"><svg width="100" height="100">
-    <path d="M50 0 L0 100 L100 100 Z" style="fill:#999;stroke:black;stroke-width:3"></path>
-</svg>
-</div>
+  
     <script type="text/javascript" src="sen.js"></script>
   <div class="main">
     <h1>れんしゅう</h1>
