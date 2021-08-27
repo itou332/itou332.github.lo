@@ -11,12 +11,10 @@
       <li><a href="#">メニュー5</a></li>
     </ul>
   </nav>
-   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
+  
 <svg
-   width="387.70602mm"
-   height="106.62089mm"
+   width="75mm"
+   height="25mm"
    viewBox="0 0 387.70602 106.62089"
    version="1.1"
    id="svg5"
