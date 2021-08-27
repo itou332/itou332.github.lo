@@ -1,3 +1,4 @@
+<!DOCTYPHTML>
 <html lang="ja">
     <link rel="stylesheet" href="style2.css">
 <head>
