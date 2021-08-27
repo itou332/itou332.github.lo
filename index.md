@@ -1,4 +1,5 @@
 <html lang="ja">
+    <link rel="stylesheet" href="style2.css">
    <nav id="s-navi" class="pcnone">
   <dl class="acordion">
   <dt class="trigger"></dt>
@@ -47,10 +48,8 @@
   <script type="text/javascript" src="sample.js"></script>
    <script src="sen.js"></script>
 </head>
-<body>
-  
-    <script type="text/javascript" src="sen.js"></script>
-  <div class="main">
+<body> 
+ <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
       </div>
@@ -60,8 +59,6 @@
 </body>
 <footer>
   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    width="161.36655mm"
    height="161.41273mm"
