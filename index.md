@@ -1,8 +1,8 @@
 <html lang="ja">
     <link rel="stylesheet" href="style2.css">
 <head>
-   <link rel="stylesheet" href="style.css">
 <header>
+     <link rel="stylesheet" href="style.css">
       <nav id="s-navi" class="pcnone">
   <dl class="acordion">
   <dt class="trigger"></dt>
@@ -31,17 +31,7 @@
     <!--中身ここまで-->
   </dl>
 </nav>
-
-  <nav id="global-nav">
-    <ul>
-      <li><a href="#">メニュー1</a></li>
-      <li><a href="#">メニュー2</a></li>
-      <li><a href="#">メニュー3</a></li>
-      <li><a href="#">メニュー4</a></li>
-      <li><a href="#">メニュー5</a></li>
-    </ul>
-  </nav>
- </header>
+    </header>
   <meta charset="UTF-8">
   <title>HTML </title>
   <link rel="stylesheet" href="style.css">
