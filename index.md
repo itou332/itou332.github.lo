@@ -1,4 +1,33 @@
 <html lang="ja">
+   <nav id="s-navi" class="pcnone">
+  <dl class="acordion">
+  <dt class="trigger"></dt>
+  <div id="nav-drawer">
+    <input id="nav-input" type="checkbox" class="nav-unshown">
+    <label id="nav-open" for="nav-input"><span></span></label>
+    <label class="nav-unshown" id="nav-close" for="nav-input"></label>
+    <div id="nav-content">
+      <!--中身-->
+      <div class="hamburger-top">MENU<label class="cancel" for="nav-input"></label></div>
+      <div class="top-info">ここに検索窓や画像(サイトマップへのリンク画像)など</div>
+      <div class="category">CATEGORY</div>
+      <?php
+        if ( has_nav_menu( 'smartphone-menu' ) ) : 
+          $defaults = array(
+            'theme_location' => 'smartphone-menu',
+          );
+        else : 
+          $defaults = array(
+            'theme_location' => 'primary-menu',
+          );
+        endif;?>
+        <?php wp_nav_menu( $defaults ); ?>
+      </div>
+    </div>
+    <!--中身ここまで-->
+  </dl>
+</nav>
+
 <head>
    <link rel="stylesheet" href="style.css">
 <header>
