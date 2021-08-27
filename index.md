@@ -16,6 +16,7 @@
   <title>HTML </title>
   <link rel="stylesheet" href="style.css">
   <script type="text/javascript" src="sample.js"></script>
+   <script src="sen.js"></script>
 </head>
 <body>
   
