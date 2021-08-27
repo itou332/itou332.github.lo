@@ -1,6 +1,9 @@
 <html lang="ja">
     <link rel="stylesheet" href="style2.css">
-   <nav id="s-navi" class="pcnone">
+<head>
+   <link rel="stylesheet" href="style.css">
+<header>
+      <nav id="s-navi" class="pcnone">
   <dl class="acordion">
   <dt class="trigger"></dt>
   <div id="nav-drawer">
@@ -29,9 +32,6 @@
   </dl>
 </nav>
 
-<head>
-   <link rel="stylesheet" href="style.css">
-<header>
   <nav id="global-nav">
     <ul>
       <li><a href="#">メニュー1</a></li>
