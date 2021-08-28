@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <title>website</title>
   <link rel="stylesheet" href="style.css">
-  <script type="text/javascript" src="script.js"></script>
-   <script src="script.js">
- <script type="text/javascript" src="sen.js"></script>
 <body> 
+     <script type="text/javascript" src="script.js"></script>
+   <script src="script.js">
  <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
@@ -424,7 +423,7 @@
     </g>
   </g>
 </svg>
-
+<script type="text/javascript" src="sen.js"></script>
 <nav id="global-nav">
     <ul>
       <li><a href="#">i</a>mage</li>
