@@ -5,8 +5,8 @@
   <title>website</title>
   <link rel="stylesheet" href="style.css">
   <script type="text/javascript" src="script.js"></script>
-   <script src="sen.js">
-
+   <script src="script.js">
+ <script type="text/javascript" src="sen.js"></script>
 <body> 
  <div class="main">
     <h1>れんしゅう</h1>
