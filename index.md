@@ -6,7 +6,6 @@
   <link rel="stylesheet" href="style.css">
 <body> 
      <script type="text/javascript" src="script.js"></script>
-   <script src="script.js">
  <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
