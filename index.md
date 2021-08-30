@@ -1,5 +1,5 @@
 <html lang="ja">
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style.css">
 <head>
   <meta charset="UTF-8">
   <title>website</title>
