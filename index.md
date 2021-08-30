@@ -1,11 +1,12 @@
 <html lang="ja">
-    <link rel="stylesheet" href="style.css">
 <head>
-  <meta charset="UTF-8">
-  <title>website</title>
+<meta charset="UTF-8">
   <link rel="stylesheet" href="style.css">
+	 <link rel="stylesheet" href="style.css">
+	 <title>website</title>
+     <script type="text/javascript" src="sen.js"></script>	
+</head>	
 <body> 
-     <script type="text/javascript" src="sen.js"></script>
  <div class="main">
     <h1>れんしゅう</h1>
     <p>コピペコンテンツ</p>
