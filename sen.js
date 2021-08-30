@@ -52,3 +52,17 @@ function draw() {
   curveVertex(12, 6);
   endShape();
 }
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
+function draw() {
+  background(300);
+  rectMode(CENTER);
+  translate(width / 2, height / 2);
+  translate(p5.Vector.fromAngle(millis() / 1500, 140));
+  rect(0, 0, 20, 20);
+}
