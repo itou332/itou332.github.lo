@@ -1,13 +1,48 @@
-ul {
-  position: bottom;
-  width: 50%;
-  top:30;
-  z-index: 1000;
+html {
+position: relative;
+position: absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+-webkit-transform: translate(-50%,-50%);
+-ms-transform: translate(-50%,-50%);
+font-size: 15px
+
 }
 
+body{
+font-family:"Times New Roman";
+font-size:20px; 
+color:white;
+}
 
-#container {
-  padding-top: 1150px;
+html {
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 10;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    font-family: system-ui, sans-serif;
+  }
+  @font-face {
+    font-family: 'MonacoRegular';
+    src: url('monaco/monaco-webfont.eot');
+    src: url('monaco/monaco-webfont.eot?#iefix') format('embedded-opentype'),
+         url('monaco/monaco-webfont.woff') format('woff'),
+         url('monaco/monaco-webfont.ttf') format('truetype'),
+         url('monaco/monaco-webfont.svg#MonacoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.crayon-font-monaco * {
+    font-family: Monaco, 'MonacoRegular', 'Courier New', monospace !important;
+}
+
+body{
+background : url('KIMG0044.JPG') center center / cover no-repeat;
+background-size:cover;
 }
 
 
