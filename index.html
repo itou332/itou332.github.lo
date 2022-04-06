@@ -6,6 +6,11 @@
       </div>
       </section>
 <head>
+<!--rel=”alternate” hreflang=”bh”
+rel=”alternate” hreflang=”eng”
+rel=”alternate” hreflang=”gle”
+rel=”alternate” hreflang=”sq”
+rel=”alternate” hreflang=”zh”-->
  <title>主項目/top-menu</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
@@ -29,24 +34,52 @@
    <meta charset="UTF-8">
      <link rel="stylesheet" href="style.css">
 </head>
+
+<meta http-equiv="Content-Type"content="text/html;charset=utf-8">
+   <canvas id="myCanvas" width="800" height="450"></canvas>
+   <script>
+   var canvas = document.getElementById('myCanvas');
+   var context = canvas.getContext('2d');
+   
+   
+   for(var x=0;x<200;x++)
+   {
+           for(var y=0;y<200;y++)
+           {
+                   var i=-15;
+                   var cx=-2+x/50;
+                   var cy=-2+y/50;
+                   var zx=0.06;
+                   var zy=0.04;                        
+   
+                   do
+                   {
+                           var xt=zx*zy;
+                           zx=zx*zx-zy*zy+cx;
+                           zy=2*xt+cy;
+                           i++;
+   
+                           
+                   }
+                   while(i<255&&(zx*zx+zy*zy)<4);
+   
+                   var color=i.toString(30);
+                   context.beginPath();
+                   context.rect(zx*x, zy*y,cx*xt, -2*xt/zy*zy);
+                   context.fillStyle ='#'+97+255+color;
+                   context.fill();
+                   
+                   
+           }
+           
+   }
+   
+   </script>
+
 <hedar>
-<svg width="350" height="250">
-   <clipPath id="clip">
-     <path>
-       <animate dur="4s" repeatCount="indefinite" attributeName="d" attributeType="XML" values="
-         M43.4,45.6C35,52,7.1,74.8,1.5,112.3c-7.7,51.5,31.2,99.3,74.3,116.3c43.4,17,83.8,0,97.2-5.7 c6.3-2.7,101.5-42.8,97.2-118.2c-2.6-45.9-40.8-81-76.2-95.3C144.7-10.5,85.2,3.5,43.4,45.6z;
-         M53.1,20.4c-24.8,13.3-45.8,44.4-51.5,82c-7.7,51.5,24.8,102.9,51.5,118.2c40.4,23.1,112.3,26.6,125.8,21 c6.3-2.7,97.7-42.8,93.4-118.2c-2.6-45.9-27.5-88.6-62.9-102.9C160.1,0.5,108.4-12,53.1,20.4z;
-         M64.4,11.8C11,28.9,7.1,79.1,1.5,116.6c-7.7,51.5,32.4,102.9,59.1,118.2c40.4,23.1,97.1,7.6,110.5,1.9 c6.3-2.7,95.8-52.3,91.5-127.7c-2.6-45.9-44.6-75.3-80-89.6C133.2-0.5,115.8-7.3,64.4,11.8z;
-         M43.4,45.6C35,52,7.1,74.8,1.5,112.3c-7.7,51.5,31.2,99.3,74.3,116.3c43.4,17,83.8,0,97.2-5.7 c6.3-2.7,101.5-42.8,97.2-118.2c-2.6-45.9-40.8-81-76.2-95.3C144.7-10.5,85.2,3.5,43.4,45.6z;">
-       </animate>
-   </clipPath>
-   <image clip-path="url(#clip)" width="270" height="268" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="akaino.gif"></image>
- 
- </svg>
- 
       </hedar> 
     <body>
-      <nav id="global-nav">
+
  <ol>
    <li><a href="https://itou332.github.io/">i</a>mage</li>
    <li><a href="https://itou332.github.io/itou332a.github.io/">t</a>echnical</li>
@@ -59,6 +92,7 @@
 </nav>
     </body>	
 <footer>
+      <nav id="global-nav">
           <p>© 2021 itou Inc.</p>
 <a href="https://itou332.github.io/Privacy-policy/">Privacy・policy</a>
 <a href="https://github.com/itou332">my github</a>
