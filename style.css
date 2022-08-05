@@ -1,29 +1,29 @@
 html {
 position: relative;
 position: absolute;
-top:50%;
+top:64%;
 left:50%;
 transform: translate(-50%,-50%);
 -webkit-transform: translate(-50%,-50%);
 -ms-transform: translate(-50%,-50%);
-font-size: 15px
+font-size: 13px
 
 }
 
 body{
-font-family:"Times New Roman";
-font-size:20px; 
+font-family:"游明朝";
+font-size:16px; 
 color:;
 }
 
 html {
     min-block-size: 100%;
     min-inline-size: 100%;
-    margin: 10;
+    margin: 0.1;
     box-sizing: border-box;
     display: grid;
     place-content: center;
-    font-family: system-ui, sans-serif;
+    font-family:"Yu Mincoho" ;
   }
   @font-face {
     font-family: 'MonacoRegular';
@@ -36,12 +36,5 @@ html {
     font-style: normal;
 }
 
-.crayon-font-monaco * {
-    font-family: Monaco, 'MonacoRegular', 'Courier New', monospace !important;
-}
-
-body{
-background : url('KIMG0044.JPG') center center / cover no-repeat;
-}
 
 
