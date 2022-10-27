@@ -1,18 +1,21 @@
 html {
 position: relative;
 position: absolute;
-top:64%;
+top:60%;
 left:50%;
 transform: translate(-50%,-50%);
 -webkit-transform: translate(-50%,-50%);
 -ms-transform: translate(-50%,-50%);
-font-size: 13px
+font-size: 14px;
+}
 
+heder{
+margin:10px;
 }
 
 body{
-font-family:"游明朝";
-font-size:16px; 
+font-family:"";
+font-size:18px; 
 color:;
 }
 
@@ -26,7 +29,7 @@ html {
     font-family:"Yu Mincoho" ;
   }
   @font-face {
-    font-family: 'MonacoRegular';
+    font-family: '';
     src: url('monaco/monaco-webfont.eot');
     src: url('monaco/monaco-webfont.eot?#iefix') format('embedded-opentype'),
          url('monaco/monaco-webfont.woff') format('woff'),
@@ -36,5 +39,7 @@ html {
     font-style: normal;
 }
 
-
+body {
+  background-image: url("http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_10_13.svg");
+}
 
