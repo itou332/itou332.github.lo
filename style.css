@@ -43,7 +43,11 @@ html {
     font-style: normal;
 }
 
-body {
+html {
   background-image: url("http://itou33good.starfree.jp/wp-content/uploads/2022/10/2022_10_13.svg");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center center;
+ background-size: cover; 
 }
 
