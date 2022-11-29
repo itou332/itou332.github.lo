@@ -1,4 +1,4 @@
-# itou332のwebサイトです。
+
 
 ## *献立
 -<a href="https://itou332.github.io/top_page/">主項</a>
