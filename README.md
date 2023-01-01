@@ -21,3 +21,5 @@
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
     </nav>
+    
+![test](akaino.gif)
