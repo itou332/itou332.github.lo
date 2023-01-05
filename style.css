@@ -7,7 +7,7 @@
  top: 0;
 }
  
-{
+body{
 position: relative;
 position: absolute;
 top:50%;
@@ -36,6 +36,7 @@ html {
     display: grid;
     place-content: center;
     font-family:"Yu Mincoho" ;
+    appearance:none;
   }
   @font-face {
     font-family: '';
@@ -49,10 +50,10 @@ html {
 }
 
 html {
-  background-image: url(http://itou33good.starfree.jp/wp-content/uploads/2023/01/1test-2.svg);
+ background-image: url(http://itou33good.starfree.jp/wp-content/uploads/2023/01/1test-2.svg);
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-position: center center;
- background-size: cover; 
+ background-size:contain;
 }
 
