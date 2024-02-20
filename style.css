@@ -22,12 +22,6 @@ header{
 margin:10px;
 }
 
-body{
-font-family:"";
-font-size:18px; 
-color:;
-}
-
 html {
     min-block-size: 100%;
     min-inline-size: 100%;
@@ -50,7 +44,7 @@ html {
 }
 
 html {
- background-image: url(http://drive.google.com/uc?export=view&id=1J8KCSjDvsNvMgxi0ZZrom-eizN8YAPDH);
+ background-image: url("https://lh3.google.com/u/0/d/1J8KCSjDvsNvMgxi0ZZrom-eizN8YAPDH=w100-h100%-iv1");
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-position: center center;
