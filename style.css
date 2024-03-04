@@ -5,6 +5,19 @@
  position: fixed;
  left: 0;
  top: 0;
+    min-block-size: 100%;
+    min-inline-size: 100%;
+    margin: 0.1;
+    box-sizing: border-box;
+    display: grid;
+    place-content: center;
+    font-family:"Yu Mincoho" ;
+    appearance:none;
+ background-image: url("https://drive.google.com/thumbnail?id=1J8KCSjDvsNvMgxi0ZZrom-eizN8YAPDH&sz=w1000");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center center;
+ background-size:cover;
 }
  
 body{
@@ -22,16 +35,7 @@ header{
 margin:10px;
 }
 
-html {
-    min-block-size: 100%;
-    min-inline-size: 100%;
-    margin: 0.1;
-    box-sizing: border-box;
-    display: grid;
-    place-content: center;
-    font-family:"Yu Mincoho" ;
-    appearance:none;
-  }
+
   @font-face {
     font-family: '';
     src: url('monaco/monaco-webfont.eot');
@@ -43,11 +47,8 @@ html {
     font-style: normal;
 }
 
-html {
- background-image: url("https://drive.google.com/thumbnail?id=1J8KCSjDvsNvMgxi0ZZrom-eizN8YAPDH&sz=w1000");
- background-repeat: no-repeat;
- background-attachment: fixed;
- background-position: center center;
- background-size:cover;
-}
 
+    h1 {
+ text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff;
+ color: #000;
+}
