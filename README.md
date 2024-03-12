@@ -1,41 +1,4 @@
-[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/Privacy-policy)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fitou332%2Fitou332.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fitou332%2Fitou332?ref=badge_shield)
-[![news](https://github.com/itou332/itou332/blob/main/test_obi_siro3.svg)](https://itou332.github.io/Castanea/)
-
-<pre>
-ようこそ私の項目へ。この項目は、新しい発想のための書置きです。
-PCで描いた絵をここに記録します。
-このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。
-pc,androidのスペックでも絵が変化します。絵はほぼsvg形式で書かれています。
-
--ベンチマークを実行するのに最適な項目です。-
-
-Welcome to my section.I am a beginner in everything.
-This item is a note for new ideas.
-This is where I record the pictures I draw on my PC.
-This site looks a little different when you put it in dark mode or change browsers.
-The picture changes even with PC and Android specs.
-The picture is written almost in SVG format.
-
--This is a great item to run benchmarks on.-
-
-_by itou332_
-
-new
-<a href ="https://itou332.github.io/Castanea/">Castanea</a>
-    /     /      / 
-   .     .      '
-      /          /
-     .          '
-   /      /        /
-  .      .        '
-      /    /        /
-     '    .        .
-__W_____w______w____
-----------------------
-</pre>
-
-<!--md your-markdown-"C:\Users\ULTRABOOK\Documents\GitHub\_includdes\nav.md"-->
+# itou332
 
    <nav aria-label="サイト内メニュー">
     <p>*献立</p>
@@ -60,7 +23,5 @@ __W_____w______w____
     -<a href="https://github.com/itou332">my github</a>
     -<a href="http://itou33good.starfree.jp/">itou</a>
    </nav>
-   
-<!--
-![defaul_icon.png](https://github.com/itou332/itou332/blob/main/git_identicon.png)
-![defaul_icon.gif](https://github.com/itou332/itou332/blob/main/git_icon_lifegame1.gif)-->
+    
+    ![test](akaino.gif)
