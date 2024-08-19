@@ -12,14 +12,6 @@
 <link rel="”alternate”" hreflang="”sq”" />
 <link rel="”alternate”" hreflang="”zh”" />
  <title>せきく絵/SekikuSketch_主項_top-menu_〇</title>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-REM6WSLP19');
-</script>
 <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="stylheet" href="style.CSS">
@@ -31,6 +23,8 @@
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="新しい発想,記録,絵,top menu,memo,top_page,technical,original,user">
+<meta data-n-head="ssr" data-hid="description" name="description" content="当サイトはitou332が開設したものです。">
+<meta data-n-head="ssr" data-hid="og:description" property="og:description" content="当サイトはitou332が開設したものです。">
      <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
  <style>
 .Rod{
@@ -66,18 +60,94 @@ BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P {
   "name": "web絵"
 }
 </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-REM6WSLP19');
+</script>
+<meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
-<hedar  background="logo_5mm.svg">
-
+    <body id="body"> 
+      <header  background="logo_5mm.svg">
    <svg viewBox="0 0 100.5% 0%" class="center"  >
       <animate attributeName="fill" values="white;Yellow;Blach;white;red;white;Blach;" dur="0.1s" repeatCount="20" />
       <path d="m 25,50 a 25,25 0 1,1 0,2 z"
       id="circle" />
         </svg>
-   
-      </hedar> 
-    <body id="body">  
+      </header> 
 <h1>top menu</h1>
+ <script>
+const last = new Date(document.lastModified);
+</script> 
+    <script>
+const year = last.getFullYear();
+const month = last.getMonth() + 1;
+const date = last.getDate();
+</script> 
+<script>
+// 月・日の値を修正した後に格納する変数を用意する
+let fixedMonth = month;
+let fixedDate = date;
+// 月の値が10より小さい場合は先頭に「0」を追加
+if (month < 10) {
+fixedMonth = "0" + month;
+}
+// 日の値が10より小さい場合は先頭に「0」を追加
+if (date < 10) {
+fixedDate = "0" + date;
+}
+</script> 
+<script>
+const viewDateText = year + "/" + month + "/" + date + "";
+const datetimeText = year + "-" + fixedMonth + "-" + fixedDate;
+</script> 
+
+<p>Update Date: <time id="modified_date"></time></p>
+<script>
+const target = document.getElementById('modified_date');
+target.textContent = viewDateText;
+target.setAttribute("datetime", datetimeText);
+</script>
+
+        <header>
+            <script src="../google_drive_website\js\build\three.module.js"></script>
+                <script src="../google_drive_website\js\threejs\three.min.js"></script>
+                <script src="../google_drive_website\js\threejs\ObjectLoader.js"></script>
+                <script src="../google_drive_website\js\threejs\OrbitControls.js"></script>
+
+                <script>
+                    import { OBJLoader } from '../google_drive_website\js\threejs\ObjectLoader.js';
+// instantiate a loader
+const loader = new OBJLoader();
+
+// load a resource
+loader.load(
+    // resource URL
+    '../google_drive_website\src\7e850ef20f946b11c259d943b024634319b10906\texturedMesh.obj',
+    // called when resource is loaded
+    function ( object ) {
+
+        scene.add( object );
+
+    },
+    // called when loading is in progresses
+    function ( xhr ) {
+
+        console.log( ( xhr.loaded / xhr.total * 100 ) + '% loaded' );
+
+    },
+    // called when loading has errors
+    function ( error ) {
+
+        console.log( 'An error happened' );
+
+    }
+);
+
+                </script>
 <span translate="">
 <p><svg
    width="10.466738mm"
