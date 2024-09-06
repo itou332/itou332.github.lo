@@ -1,86 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>https://itou332.github.io/top_page/</loc>
+    <loc>https://top-page-ckb.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://top-page-ckb-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://top-page-ckb-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://top-page-ckb-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://top-page-ckb-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://top-page-ckb-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/</loc>
+    <loc>https://itou332-github-io.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://itou332-github-io-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://itou332-github-io-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://itou332-github-io-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://itou332-github-io-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://itou332-github-io-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/Privacy-policy/</loc>
+    <loc>https://privacy-policy-4os.pages.dev/</loc>
     <lastmod>2022-02-11</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://privacy-policy-4os-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://privacy-policy-4os-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://privacy-policy-4os-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://privacy-policy-4os-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://privacy-policy-4os-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/itou332a.github.io/</loc>
+    <loc>https://itou332a-github-io.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://itou332a-github-io-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://itou332a-github-io-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://itou332a-github-io-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://itou332a-github-io-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://itou332a-github-io-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/diary</loc>
+    <loc>https://diary-4i7.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://diary-4i7-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://diary-4i7-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://diary-4i7-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://diary-4i7-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://diary-4i7-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/today/</loc>
+    <loc>https://today-383.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://today-383-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://today-383-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://today-383-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://today-383-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://today-383-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/challenge/</loc>
+    <loc>https://challenge-8og.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://challenge-8og-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://challenge-8og-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://challenge-8og-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://challenge-8og-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://challenge-8og-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/nontitle/</loc>
+    <loc>https://nontitle.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://nontitle-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://nontitle-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://nontitle-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://nontitle-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://nontitle-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/analog/</loc>
+    <loc>https://elaboration.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://elaboration-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://elaboration-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://elaboration-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://elaboration-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://elaboration-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/walk/</loc>
+    <loc>https://analog-2y1.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://analog-2y1-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://analog-2y1-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://analog-2y1-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://analog-2y1-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://analog-2y1-fr.pages.dev/"/>
   </url>
-  <url>
-    <loc>https://itou332.github.io/pine/</loc>
+  
+    <url>
+    <loc>https://pine-6ar.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://pine-6ar-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://pine-6ar-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://pine-6ar-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://pine-6ar-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://pine-6ar-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/banboo/</loc>
+    <loc>https://banboo.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://banboo-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://banboo-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://banboo-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://banboo-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://banboo-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/cypress/</loc>
+    <loc>https://cypress-9ju.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://cypress-9ju-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://cypress-9ju-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://cypress-9ju-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://cypress-9ju-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://cypress-9ju-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/Thujopsis-dolabrata-SIEBOLD-et-ZUCCARINI/</loc>
+    <loc>https://thujopsis-dolabrata-siebold-et-zuccarini.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://thujopsis-dolabrata-siebold-et-zuccarini-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://thujopsis-dolabrata-siebold-et-zuccarini-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://thujopsis-dolabrata-siebold-et-zuccarini-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://thujopsis-dolabrata-siebold-et-zuccarini-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://thujopsis-dolabrata-siebold-et-zuccarini-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/Castanea/</loc>
+    <loc>https://castanea.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://castanea-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://castanea-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://castanea-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://castanea-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://castanea-fr.pages.dev/"/>
   </url>
+
   <url>
-    <loc>https://itou332.github.io/redirect/</loc>
+    <loc>https://redirect-adp.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
     <priority>0.64</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://redirect-adp-us.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://redirect-adp-eu.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://redirect-adp-in.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://redirect-adp-ie.pages.dev/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://redirect-adp-fr.pages.dev/"/>
   </url>
 </urlset>
+
