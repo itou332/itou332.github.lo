@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https://itou332.github.io/top_page/
+Allow: /new-path/
+Sitemap: https://top-page-ckb.pages.dev/
