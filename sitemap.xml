@@ -4,6 +4,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  
+  <url>
+    <loc>https://itou332.github.io/top_page/</loc>
+    <lastmod>2024-08-18</lastmod>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://itou332.github.io/top_page//"/>
+    <xhtml:link rel="alternate" hreflang="en-EU" href="https://itou332.github.io/top_page/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://itou332.github.io/top_page/"/>
+    <xhtml:link rel="alternate" hreflang="en-IE" href="https://itou332.github.io/top_page/"/>
+    <xhtml:link rel="alternate" hreflang="fr-FR" href="https://itou332.github.io/top_page/"/>
+  </url>
+  
   <url>
     <loc>https://top-page-ckb.pages.dev/</loc>
     <lastmod>2024-08-18</lastmod>
