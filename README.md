@@ -1,6 +1,6 @@
 # itou332
 
-![park]([https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)
+![park](output2023_2_22_1.SVG)
 
    <nav aria-label="サイト内メニュー">
     <p>*献立</p>
