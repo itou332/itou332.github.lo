@@ -1,5 +1,7 @@
 # itou332
-[![park]([https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc](https://github.com/itou332/top_page/blob/gh-pages/output2023_2_22_1.SVG))]
+
+![park]([https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)
+
    <nav aria-label="サイト内メニュー">
     <p>*献立</p>
     -<a href="https://itou332.github.io/top_page/">主項</a>
